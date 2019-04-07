@@ -77,7 +77,7 @@ public class MoveTest extends ApplicationTest {
         Trip trip = getTrip();
         TripFilterForm filterForm = new TripFilterForm();
         filterForm.setTrip(trip);
-        mockMvc.perform(MockMvcRequestBuilders.post("/v1/search")
+        mockMvc.perform(MockMvcRequestBuilders.post("/v1/trips/search")
                 .contentType(MediaType.APPLICATION_JSON_UTF8_VALUE)
                 .content(TestUtil.convertObjectToJsonBytes(filterForm))
                 .param("page", "0")
