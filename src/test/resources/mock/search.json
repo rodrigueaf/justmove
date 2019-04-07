@@ -1,0 +1,550 @@
+{
+  "trips": [
+    {
+      "id": "39945489-39945489-39945490",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T07:01:00.000+02:00",
+      "arrival": "2019-08-15T11:35:00.000+02:00",
+      "price_cents": 1247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T07:01:00.000+02:00",
+          "arrival": "2019-08-15T11:35:00.000+02:00",
+          "bus_number": "1447"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 249
+        }
+      ]
+    },
+    {
+      "id": "41709911-41709911-41709912",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T07:15:00.000+02:00",
+      "arrival": "2019-08-15T11:10:00.000+02:00",
+      "price_cents": 2247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T07:15:00.000+02:00",
+          "arrival": "2019-08-15T11:10:00.000+02:00",
+          "bus_number": "5847"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 449
+        }
+      ]
+    },
+    {
+      "id": "41268609-41268609-41268610",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T08:00:00.000+02:00",
+      "arrival": "2019-08-15T10:55:00.000+02:00",
+      "price_cents": 1247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T08:00:00.000+02:00",
+          "arrival": "2019-08-15T10:55:00.000+02:00",
+          "bus_number": "1563"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 249
+        }
+      ]
+    },
+    {
+      "id": "41709913-41709913-41709914",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T10:00:00.000+02:00",
+      "arrival": "2019-08-15T13:35:00.000+02:00",
+      "price_cents": 2247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T10:00:00.000+02:00",
+          "arrival": "2019-08-15T13:35:00.000+02:00",
+          "bus_number": "5461"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 449
+        }
+      ]
+    },
+    {
+      "id": "41268612-41268612-41268614",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T10:00:00.000+02:00",
+      "arrival": "2019-08-15T14:05:00.000+02:00",
+      "price_cents": 1247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T10:00:00.000+02:00",
+          "arrival": "2019-08-15T14:05:00.000+02:00",
+          "bus_number": "5947"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 249
+        }
+      ]
+    },
+    {
+      "id": "41268615-41268615-41268616",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T12:20:00.000+02:00",
+      "arrival": "2019-08-15T16:20:00.000+02:00",
+      "price_cents": 1247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T12:20:00.000+02:00",
+          "arrival": "2019-08-15T16:20:00.000+02:00",
+          "bus_number": "5949"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 249
+        }
+      ]
+    },
+    {
+      "id": "41268621-41268621-41268624",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T13:00:00.000+02:00",
+      "arrival": "2019-08-15T16:40:00.000+02:00",
+      "price_cents": 2247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T13:00:00.000+02:00",
+          "arrival": "2019-08-15T16:40:00.000+02:00",
+          "bus_number": "5509"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 449
+        }
+      ]
+    },
+    {
+      "id": "41268630-41268630-41268632",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T14:15:00.000+02:00",
+      "arrival": "2019-08-15T17:35:00.000+02:00",
+      "price_cents": 0,
+      "price_currency": "EUR",
+      "available": false,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T14:15:00.000+02:00",
+          "arrival": "2019-08-15T17:35:00.000+02:00",
+          "bus_number": "1535"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 0
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 0
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 0
+        }
+      ]
+    },
+    {
+      "id": "41268633-41268633-41268634",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T15:25:00.000+02:00",
+      "arrival": "2019-08-15T18:25:00.000+02:00",
+      "price_cents": 1247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T15:25:00.000+02:00",
+          "arrival": "2019-08-15T18:25:00.000+02:00",
+          "bus_number": "1559"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 249
+        }
+      ]
+    },
+    {
+      "id": "41709919-41709919-41709920",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T16:20:00.000+02:00",
+      "arrival": "2019-08-15T20:30:00.000+02:00",
+      "price_cents": 2247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T16:20:00.000+02:00",
+          "arrival": "2019-08-15T20:30:00.000+02:00",
+          "bus_number": "5857"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 449
+        }
+      ]
+    },
+    {
+      "id": "41709921-41709921-41709922",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T17:30:00.000+02:00",
+      "arrival": "2019-08-15T21:35:00.000+02:00",
+      "price_cents": 2247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T17:30:00.000+02:00",
+          "arrival": "2019-08-15T21:35:00.000+02:00",
+          "bus_number": "5599"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 899
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 449
+        }
+      ]
+    },
+    {
+      "id": "39945495-39945495-39945496",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T18:25:00.000+02:00",
+      "arrival": "2019-08-15T22:25:00.000+02:00",
+      "price_cents": 1247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T18:25:00.000+02:00",
+          "arrival": "2019-08-15T22:25:00.000+02:00",
+          "bus_number": "5907"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 249
+        }
+      ]
+    },
+    {
+      "id": "41709923-41709923-41709924",
+      "origin_id": 1,
+      "destination_id": 11,
+      "departure": "2019-08-15T18:50:00.000+02:00",
+      "arrival": "2019-08-15T21:50:00.000+02:00",
+      "price_cents": 1247,
+      "price_currency": "EUR",
+      "available": true,
+      "legs": [
+        {
+          "origin_id": 1,
+          "destination_id": 11,
+          "departure": "2019-08-15T18:50:00.000+02:00",
+          "arrival": "2019-08-15T21:50:00.000+02:00",
+          "bus_number": "5945"
+        }
+      ],
+      "passengers": [
+        {
+          "id": 1,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 2,
+          "fare_name": "Adult",
+          "fare_description": "Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 499
+        },
+        {
+          "id": 3,
+          "fare_name": "Baby",
+          "fare_description": "2 years old or younger on the day of the journey. Non refundable. Exchangeable with a €5 fee before departure.",
+          "price_currency": "EUR",
+          "price_cents": 249
+        }
+      ]
+    }
+  ]
+}

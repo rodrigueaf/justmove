@@ -1,0 +1,4 @@
+provider:
+  ouibus:
+    api-key: d38WYta6_S5VeiREwICSLA
+    base-url: https://api.idbus.com/v1/
